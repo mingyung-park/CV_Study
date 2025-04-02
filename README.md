@@ -5,15 +5,20 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 
 ***[🔗 블로그 방문하기](https://he-kate1130.tistory.com/category/%F0%9F%A6%84AI/Computer%20Vision)***
 
-> 🚧 **현재 히스토그램 외 나머지 콘텐츠는 재정비 중입니다. 순차적으로 업데이트될 예정입니다** 🚧
 
 ---
 
 ## Table of Contents
 
+- 🧮 [Image Histogram](https://github.com/mingyung-park/CV_Study/tree/main/Histogram)
+- 🧹 [Filtering](https://github.com/mingyung-park/CV_Study/tree/main/Filtering)
+  
+<br>
+
+> 🚧 *아래 컨텐츠는 재정비 중입니다. 순차적으로 업데이트될 예정입니다* 🚧
+
 - 📌 [Introduction](#introduction) *(공사 중 🚧)*
 - 📷 [Image Basics](#image-basics) *(공사 중 🚧)*
-- 🧮 [Image Histogram](https://github.com/mingyung-park/CV_Study/tree/main/Histogram)
 - 🎯 [Feature Detection](#feature-detection) *(공사 중 🚧)*
 - 📐 [Geometric Transformations](#geometric-transformations) *(공사 중 🚧)*
 - 🧠 [Machine Learning + CV](#machine-learning--cv) *(공사 중 🚧)*
