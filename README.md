@@ -8,7 +8,7 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 
 - 📌 [Introduction](#introduction)
 - 📷 [Image Basics](#image-basics)
-- 🧮 [Image Histogram](#Histogram)
+- 🧮 [Image Histogram](https://github.com/mingyung-park/CV_Study/tree/main/Histogram)
 - 🎯 [Feature Detection](#feature-detection)
 - 📐 [Geometric Transformations](#geometric-transformations)
 - 🧠 [Machine Learning + CV](#machine-learning--cv)
