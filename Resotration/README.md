@@ -15,6 +15,7 @@
 - [🤺 Unsharp Masking](https://he-kate1130.tistory.com/141)
 
 ### 1. 📉 Degradation & Noise
+[🔗 Image Moise와 Degradation에 대해서 알아보자](https://he-kate1130.tistory.com/142)
 - Degradation
     - `Noise`,`Out-of-Focus Blur`,`Motion Blur`
 - Noise
@@ -42,8 +43,8 @@
 
 
 <br><br>
-## 🔗 작성 포스팅
-
+## 🔗 작성 포스팅 모음
+- [🔗 Image Moise와 Degradation](https://he-kate1130.tistory.com/142)
 
 <br><br>
 ## 📖 참고 자료
