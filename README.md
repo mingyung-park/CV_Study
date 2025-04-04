@@ -4,9 +4,9 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 학습 내용은 관련 포스팅을 통해 확인할 수 있습니다.
 
 ***[🔗 블로그 방문하기](https://he-kate1130.tistory.com/category/%F0%9F%A6%84AI/Computer%20Vision)***
+<br><br>
 
 
----
 
 ## Table of Contents
 
@@ -22,8 +22,8 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 - 🎯 [Feature Detection](#feature-detection) *(공사 중 🚧)*
 - 📐 [Geometric Transformations](#geometric-transformations) *(공사 중 🚧)*
 - 🧠 [Machine Learning + CV](#machine-learning--cv) *(공사 중 🚧)*
+<br><br>
 
----
 
 ## 🧰 Useful Resources
 
