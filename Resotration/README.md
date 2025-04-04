@@ -1,6 +1,6 @@
 # 🧼 Image Restoration
 
-**이미지 복원(Image Restoration)**은 손상되거나 저하된 이미지를 원래의 깨끗한 상태로 되돌리는 영상처리 기술입니다.  
+**이미지 복원(Image Restoration)** 은 손상되거나 저하된 이미지를 원래의 깨끗한 상태로 되돌리는 영상처리 기술입니다.  
 노이즈 제거(Denoising), 블러 복원(Deblurring), 결손 복구(Inpainting) 등 다양한 복원 기법이 존재합니다.
 
 이 문서에서는 주요 복원 기술의 개념과 함께, OpenCV를 활용한 간단한 구현 예제를 소개합니다.
