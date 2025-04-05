@@ -19,20 +19,15 @@
 - Degradation
     - `Noise`,`Out-of-Focus Blur`,`Motion Blur`
 - Noise
-    - `Salt and Pepper Noise`
-    - `Gaussian Noise`
-    - `Speckle Noise`
-    - `Periodic Noise`
+    - `Salt and Pepper Noise`, `Gaussian Noise`, `Speckle Noise`, `Periodic Noise`
 
 ### 2. 🧪 노이즈 제거 
 [🔗 Denoising 실습](https://he-kate1130.tistory.com/142)
 - **Salt and Pepper Noise Removal**  
-  - `Median Filtering`
-  - `Outlier Rejection Method`
+  - `Median Filtering`, `Outlier Rejection Method`
 
 - **Gaussian Noise Removal**  
-  - `Simple Average Filtering`
-  - `Bilateral Filtering`
+  - `Simple Average Filtering`, `Bilateral Filtering`
   - `Bilateral Filtering vs. Gaussian Filtering`
 
 
