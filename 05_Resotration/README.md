@@ -44,7 +44,7 @@
 
 <br><br>
 ## 🔗 작성 포스팅 모음
-- [🔗 Image Moise와 Degradation](https://he-kate1130.tistory.com/142)
+- [🔗 Image Noise와 Degradation](https://he-kate1130.tistory.com/142)
 
 <br><br>
 ## 📖 참고 자료
