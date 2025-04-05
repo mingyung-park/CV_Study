@@ -15,7 +15,7 @@
 - [🤺 Unsharp Masking](https://he-kate1130.tistory.com/141)
 
 ### 1. 📉 Degradation & Noise
-[🔗 Image Moise와 Degradation에 대해서 알아보자](https://he-kate1130.tistory.com/142)
+[🔗 Image Noise와 Degradation에 대해서 알아보자](https://he-kate1130.tistory.com/142)
 - Degradation
     - `Noise`,`Out-of-Focus Blur`,`Motion Blur`
 - Noise
@@ -25,6 +25,7 @@
     - `Periodic Noise`
 
 ### 2. 🧪 노이즈 제거 
+[🔗 Denoising 실습](https://he-kate1130.tistory.com/142)
 - **Salt and Pepper Noise Removal**  
   - `Median Filtering`
   - `Outlier Rejection Method`
@@ -38,6 +39,11 @@
 <br><br>
 ## 📌 결과 미리보기
 > **Salt and Pepper Noise 제거 결과**
+
+|Salt&Pepper Noise|Averaging Filter|Median Filter|Outlier Rejection|
+|--|--|--|--|
+|![alt text](image.png)|![alt text](image-1.png)|![alt text](image-2.png)|![alt text](image-3.png)|
+
 
 > **Gaussian Noise Removal 제거 결과**
 
