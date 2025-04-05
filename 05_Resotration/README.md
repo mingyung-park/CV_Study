@@ -5,7 +5,7 @@
 
 이 문서에서는 주요 복원 기술의 개념과 함께, OpenCV를 활용한 간단한 구현 예제를 소개합니다.
 
-<br><br>
+<br>
 ## 📂 주요 주제
 
 ### 0. 🧱 기초: Filtering  
@@ -31,7 +31,7 @@
   - `Bilateral Filtering vs. Gaussian Filtering`
 
 
-<br><br>
+<br>
 ## 📌 결과 미리보기
 > **Salt and Pepper Noise 제거 결과**
 
@@ -46,7 +46,7 @@
 |--|--|--|
 |![alt text](images/image-4.png)|![alt text](images/image-5.png)|![alt text](images/image-6.png)|
 
-<br><br>
+<br>
 ## 🔗 작성 포스팅 모음
 - [🔗 Image Noise와 Degradation](https://he-kate1130.tistory.com/142)
 - [🔗 Image Denoising](https://he-kate1130.tistory.com/143)
