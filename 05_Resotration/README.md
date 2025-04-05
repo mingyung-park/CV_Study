@@ -22,7 +22,7 @@
     - `Salt and Pepper Noise`, `Gaussian Noise`, `Speckle Noise`, `Periodic Noise`
 
 ### 2. 🧪 노이즈 제거 
-[🔗 Denoising 실습](https://he-kate1130.tistory.com/142)
+[🔗 Denoising 실습](https://he-kate1130.tistory.com/143)
 - **Salt and Pepper Noise Removal**  
   - `Median Filtering`, `Outlier Rejection Method`
 
@@ -37,15 +37,20 @@
 
 |Salt&Pepper Noise|Averaging Filter|Median Filter|Outlier Rejection|
 |--|--|--|--|
-|![alt text](image.png)|![alt text](image-1.png)|![alt text](image-2.png)|![alt text](image-3.png)|
+|![alt text](images/image.png)|![alt text](images/image-1.png)|![alt text](images/image-2.png)|![alt text](images/image-3.png)|
 
 
 > **Gaussian Noise Removal 제거 결과**
 
+|Gaussian Noise|Gaussian Filter|Bilateral Filter|
+|--|--|--|
+|![alt text](images/image-4.png)|![alt text](images/image-5.png)|![alt text](images/image-6.png)|
 
 <br><br>
 ## 🔗 작성 포스팅 모음
 - [🔗 Image Noise와 Degradation](https://he-kate1130.tistory.com/142)
+- [🔗 Image Denoising](https://he-kate1130.tistory.com/143)
+
 
 <br><br>
 ## 📖 참고 자료
