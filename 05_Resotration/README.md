@@ -40,7 +40,7 @@
 |![alt text](images/image.png)|![alt text](images/image-1.png)|![alt text](images/image-2.png)|![alt text](images/image-3.png)|
 
 
-> **Gaussian Noise Removal 제거 결과**
+> **Gaussian Noise 제거 결과**
 
 |Gaussian Noise|Gaussian Filter|Bilateral Filter|
 |--|--|--|
