@@ -4,8 +4,8 @@
 노이즈 제거(Denoising), 블러 복원(Deblurring), 결손 복구(Inpainting) 등 다양한 복원 기법이 존재합니다.
 
 이 문서에서는 주요 복원 기술의 개념과 함께, OpenCV를 활용한 간단한 구현 예제를 소개합니다.
+<br>
 
-<br><br>
 ## 📂 주요 주제
 
 ### 0. 🧱 기초: Filtering  
@@ -29,9 +29,8 @@
 - **Gaussian Noise Removal**  
   - `Simple Average Filtering`, `Bilateral Filtering`
   - `Bilateral Filtering vs. Gaussian Filtering`
+<br>
 
-
-<br><br>
 ## 📌 결과 미리보기
 > **Salt and Pepper Noise 제거 결과**
 
@@ -40,18 +39,19 @@
 |![alt text](images/image.png)|![alt text](images/image-1.png)|![alt text](images/image-2.png)|![alt text](images/image-3.png)|
 
 
-> **Gaussian Noise Removal 제거 결과**
+> **Gaussian Noise 제거 결과**
 
 |Gaussian Noise|Gaussian Filter|Bilateral Filter|
 |--|--|--|
 |![alt text](images/image-4.png)|![alt text](images/image-5.png)|![alt text](images/image-6.png)|
+<br>
 
-<br><br>
 ## 🔗 작성 포스팅 모음
 - [🔗 Image Noise와 Degradation](https://he-kate1130.tistory.com/142)
 - [🔗 Image Denoising](https://he-kate1130.tistory.com/143)
 
 
-<br><br>
+<br>
+
 ## 📖 참고 자료
 - [🗒️ OpenCV 튜토리얼: Smooting Images](https://docs.opencv.org/4.11.0/dc/dd3/tutorial_gausian_median_blur_bilateral_filter.html)
