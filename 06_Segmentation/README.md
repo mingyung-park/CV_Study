@@ -16,9 +16,6 @@ Thresholding, K-means Clustering, Mean Shift와 같은 다양한 접근 방식�
 - `K-means Clustering`
 - `Mean Shift Algorithm`
 
-
-> 각 기법별로 이론 설명 + 코드 구현 + 시각적 결과 포함
-
 <br>
 
 ## 📌 결과 미리보기
@@ -32,9 +29,15 @@ Thresholding, K-means Clustering, Mean Shift와 같은 다양한 접근 방식�
 
 > **✅ K-means Clustering 결과**  
 
+|원본|K = 10|K = 20|
+|:--:|:--:|:--:|
+|![](images/flower.jpg) |![](images/output_kmeans_rgbxy_10.png)|![](images/output_kmeans_rgbxy_20.png)|
 
 > **✅ Mean Shift Segmentation 결과**  
 
+|원본|Window size 20|
+|:--:|:--:|
+|![](images/flower.jpg) |![](images/output_meanshift.png)|
 
 <br>
 
