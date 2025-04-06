@@ -20,9 +20,9 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 
 ### ToDo
 - 🔧 **06. Image Segmentation**  
-  - [ ] `1_Thresholding`: Simple, Otsu, Adaptive Thresholding 정리 및 예제 추가 예정  
-  - [ ] `2_KMeansClustering`: 색상 기반 K-Means Segmentation 구현 및 실습  
-  - [ ] `3_MeanShiftSegmentation`: Mean Shift 알고리즘 기반 세그멘테이션 정리 예정  
+  - [V] `1_Thresholding`: Simple, Otsu, Adaptive Thresholding 정리 및 예제 추가 예정  
+  - [] `2_KMeansClustering`: 색상 기반 K-Means Segmentation 구현 및 실습  
+  - [] `3_MeanShiftSegmentation`: Mean Shift 알고리즘 기반 세그멘테이션 정리 예정  
 
 - 🔧 **07. Edge & Corner Detection**  
   - [ ] `1_EdgeDetection`: 다양한 엣지 검출 알고리즘 (Canny, LoG 등) 추가 예정  
