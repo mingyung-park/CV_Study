@@ -18,6 +18,7 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 
 > 🚧 *아래 컨텐츠는 재정비 중입니다. 순차적으로 업데이트될 예정입니다* 🚧
 
+### ToDo
 - 🔧 **06. Image Segmentation**  
   - [ ] `1_Thresholding`: Simple, Otsu, Adaptive Thresholding 정리 및 예제 추가 예정  
   - [ ] `2_KMeansClustering`: 색상 기반 K-Means Segmentation 구현 및 실습  
