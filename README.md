@@ -110,3 +110,5 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 
 - [OpenCV 공식 문서 - 4.11.0](https://docs.opencv.org/4.11.0/)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Keras Code Examples](https://keras.io/examples/)
+- [Pytorch Tutorials](https://pytorch.org/tutorials/)
