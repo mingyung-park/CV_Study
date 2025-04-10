@@ -1,20 +1,37 @@
-# 🧼
+# 📐 Edge & Corner Detection
 
-<br><br>
+<br>
 ## 📂 주요 주제
 
-### 0. 
+### 1. Edge Detection
+- `Smoothing & Edge Tradeoff`
+- `Sobel Filter`
+- `Laplacian Filter`
+- `Laplacian of Gaussian Filter (LoG)`
+- `Canny Edge Detection`
 
-<br><br>
+### 2. Corner Detection 
+- `Harris Corner Detection`
+
+<br>
+
 ## 📌 결과 미리보기
-> ** 결과**
+
+> **Edge Detection - 1. Smoothing & Edge Tradeoff 결과**
+<br>
+kernel size 커질 수록 edge가 blurred된다. (localization 문제)
+
+|kernel size = 1|kernel size = 1|kernel size = 1|kernel size = 1|
+|:--:|:--:|:--:|:--:|
+|![](images/edge_blur_ksize_1.png)|![](images/edge_blur_ksize_3.png)|![](images/edge_blur_ksize_5.png)|![](images/edge_blur_ksize_9.png)|
 
 
+<br>
 
-<br><br>
 ## 🔗 작성 포스팅
 
 
-<br><br>
+<br>
+
 ## 📖 참고 자료
 
