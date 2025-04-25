@@ -33,7 +33,6 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 - 🔧 **08. Feature Descriptor**  
   - [ ] `1_SIFT`: 이론 설명 및 구현 예제 보완  
   - [ ] `2_SURF`: 비교 및 응용 사례 추가 예정  
-  - [ ] ORB, BRIEF 등의 경량 디스크립터도 추후 추가 고려  
 
 - 🔧 **09. Fitting**  
   - [ ] `1_RANSAC`: 직선/평면 추정 예제 추가 예정  
@@ -44,7 +43,7 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
   - [ ] `2_LossFunction`: CrossEntropy, MSE 등 주요 Loss 함수 소개  
   - [ ] `3_Optimization`: SGD, Adam 등 옵티마이저 비교  
   - [ ] `4_Regularization`: Dropout, L2 정규화 설명 예정  
-  - [ ] `5_BackPropagation`: 수식 유도 및 직관적 이해 자료 준비 중  
+  - [ ] `5_BackPropagation`: 수식 유도 및 시각 자료 준비 중  
 
 - 🔧 **11. CNN**  
   - [ ] `1_Introduction`: CNN 개요, 특징 맵과 필터 설명  
