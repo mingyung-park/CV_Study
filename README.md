@@ -14,10 +14,11 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 - 🧹 [04. Filtering](https://github.com/mingyung-park/CV_Study/tree/main/04_Filtering)
 - 🧼 [05. Image Restoration](https://github.com/mingyung-park/CV_Study/tree/main/05_Resotration)
 - 🧩 [06. Image Segmentation](https://github.com/mingyung-park/CV_Study/tree/main/06_Segmentation)
+- 📐 [07. Edge Corner Detection](https://github.com/mingyung-park/CV_Study/tree/main/07_EdgeCornerDetection)
+
 <br>
 
-
-> 🚧 *아래 컨텐츠는 재정비 중입니다. 순차적으로 업데이트될 예정입니다* 🚧
+> 🚧*아래 컨텐츠는 재정비 중입니다. 순차적으로 업데이트될 예정입니다*🚧
 
 ### ToDo
 - 🔧 **06. Image Segmentation**  
