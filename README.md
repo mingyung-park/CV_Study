@@ -26,8 +26,8 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
   - [X] `3_MeanShiftSegmentation`: Mean Shift 알고리즘 기반 세그멘테이션 정리 예정  
 
 - 🔧 **07. Edge & Corner Detection**  
-  - [ ] `1_EdgeDetection`: 다양한 엣지 검출 알고리즘 (Canny, LoG 등) 추가 예정  
-  - [ ] `2_CornerDetection`: Harris, Shi-Tomasi 등의 코너 검출 기법 구현 및 정리 예정  
+  - [X] `1_EdgeDetection`: 다양한 엣지 검출 알고리즘 (Canny, LoG 등) 추가 예정  
+  - [ ] `2_CornerDetection`: Harris 코너 검출 기법 구현 및 정리 예정  
 
 - 🔧 **08. Feature Descriptor**  
   - [ ] `1_SIFT`: 이론 설명 및 구현 예제 보완  
