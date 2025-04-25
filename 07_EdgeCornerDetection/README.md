@@ -71,8 +71,15 @@
 
 > **Corner Detection - 1. Harris Corner Detector 결과**
 >
-> 
+> 1. Second Moment Matrix의 고유값을 직접 계산하지 않고, determinant와 trace를 사용한 코너 응답 함수를 통해 각 window에서의 R값을 구한다.
+>
+>       <img src="images/harris_response.png" width="400"/> 
+>
+> 2. 이후 threshold보다 큰 응답 값 R을 가진 경우에 대해서 Non-maximum Suppression을 진행하여 코너를 검출한다.
 
+|Harris Corner Detection|Harris Corner Response|
+|:--:|:--:|
+|<img src="images/harris_corner.png" width="400"/> | <img src="images/harris_corner_R.png" width="400"/> |
 
 <br>
 
