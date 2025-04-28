@@ -21,14 +21,14 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 > 🚧*아래 컨텐츠는 재정비 중입니다. 순차적으로 업데이트될 예정입니다*🚧
 
 ### ToDo
-- 🔧 ~~**06. Image Segmentation**~~  
-  - [X] ~~`1_Thresholding`: Simple, Otsu, Adaptive Thresholding 정리 및 예제 추가 예정~~  
-  - [X] ~~`2_KMeansClustering`: 색상 기반 K-Means Segmentation 구현 및 실습~~  
-  - [X] ~~`3_MeanShiftSegmentation`: Mean Shift 알고리즘 기반 세그멘테이션 정리 예정~~  
+- 🔧 **06. Image Segmentation**
+  - [X] `1_Thresholding`: ~~Simple, Otsu, Adaptive Thresholding 정리 및 예제 추가 예정~~  
+  - [X] `2_KMeansClustering`: ~~색상 기반 K-Means Segmentation 구현 및 실습~~  
+  - [X] `3_MeanShiftSegmentation`: ~~Mean Shift 알고리즘 기반 세그멘테이션 정리 예정~~  
 
-- 🔧 ~~**07. Edge & Corner Detection**~~  
-  - [X] ~~`1_EdgeDetection`: 다양한 엣지 검출 알고리즘 (Canny, LoG 등) 추가 예정~~  
-  - [X] ~~`2_CornerDetection`: Harris 코너 검출 기법 구현 및 정리 예정~~  
+- 🔧 **07. Edge & Corner Detection**
+  - [X] `1_EdgeDetection`: ~~다양한 엣지 검출 알고리즘 (Canny, LoG 등) 추가 예정~~  
+  - [X] `2_CornerDetection`: ~~Harris 코너 검출 기법 구현 및 정리 예정~~  
 
 - 🔧 **08. Feature Descriptor**  
   - [ ] `1_SIFT`: 이론 설명 및 구현 예제 보완  
@@ -58,7 +58,7 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
   - [ ] Segmentation, Detection 등 Task별 프로젝트 구성 계획 중
 
 - 🔧 **14. 3DVision**  
-  - [ ] 3D vision Introduction 
+  - [ ] 3D vision Introduction, 3d representation방식에 대한 설명 업로드 예정
 
 
 <br>
