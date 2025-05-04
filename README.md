@@ -1,7 +1,7 @@
 # Computer Vision & OpenCV 😎
 
-Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니다.  
-Image Processing, Computer Vision, 3D Vision
+Image Processing → Computer Vision → 3D Vision 순으로  
+이론 정리와 코드 구현 내용을 정리합니다.  
 학습 내용은 관련 포스팅을 통해 확인할 수 있습니다.
 
 ***[🔗 블로그 방문하기](https://he-kate1130.tistory.com/category/%F0%9F%A6%84AI/Computer%20Vision)***
@@ -136,6 +136,7 @@ Image Processing, Computer Vision, 3D Vision
 └─18_3DManipulation
 ```
 <br>
+
 ## 🧰 Useful Resources
 
 - [OpenCV 공식 문서 - 4.11.0](https://docs.opencv.org/4.11.0/)
