@@ -1,6 +1,7 @@
 # Computer Vision & OpenCV 😎
 
 Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니다.  
+Image Processing, Computer Vision, 3D Vision
 학습 내용은 관련 포스팅을 통해 확인할 수 있습니다.
 
 ***[🔗 블로그 방문하기](https://he-kate1130.tistory.com/category/%F0%9F%A6%84AI/Computer%20Vision)***
@@ -12,7 +13,7 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 
 - 🧮 [03. Image Histogram](https://github.com/mingyung-park/CV_Study/tree/main/03_Histogram)
 - 🧹 [04. Filtering](https://github.com/mingyung-park/CV_Study/tree/main/04_Filtering)
-- 🧼 [05. Image Restoration](https://github.com/mingyung-park/CV_Study/tree/main/05_Resotration)
+- 🧼 [05. Image Restoration](https://github.com/mingyung-park/CV_Study/tree/main/05_Restoration)
 - 🧩 [06. Image Segmentation](https://github.com/mingyung-park/CV_Study/tree/main/06_Segmentation)
 - 📐 [07. Edge Corner Detection](https://github.com/mingyung-park/CV_Study/tree/main/07_EdgeCornerDetection)
 
@@ -21,16 +22,8 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
 > 🚧*아래 컨텐츠는 재정비 중입니다. 순차적으로 업데이트될 예정입니다*🚧
 
 ### ToDo
-- 🔧 **06. Image Segmentation**
-  - [X] `1_Thresholding`: ~~Simple, Otsu, Adaptive Thresholding 정리 및 예제 추가 예정~~  
-  - [X] `2_KMeansClustering`: ~~색상 기반 K-Means Segmentation 구현 및 실습~~  
-  - [X] `3_MeanShiftSegmentation`: ~~Mean Shift 알고리즘 기반 세그멘테이션 정리 예정~~  
-
-- 🔧 **07. Edge & Corner Detection**
-  - [X] `1_EdgeDetection`: ~~다양한 엣지 검출 알고리즘 (Canny, LoG 등) 추가 예정~~  
-  - [X] `2_CornerDetection`: ~~Harris 코너 검출 기법 구현 및 정리 예정~~  
-
 - 🔧 **08. Feature Descriptor**  
+  - [ ] `feature descriptor`: 이론 설명
   - [ ] `1_SIFT`: 이론 설명 및 구현 예제 보완  
   - [ ] `2_SURF`: 비교 및 응용 사례 추가 예정  
 
@@ -57,8 +50,34 @@ Computer Vision을 공부하면서 정리하고, 구현한 코드를 올립니�
   - [ ] 실제 이미지 처리 기반 프로젝트 업로드 예정  
   - [ ] Segmentation, Detection 등 Task별 프로젝트 구성 계획 중
 
-- 🔧 **14. 3DVision**  
-  - [ ] 3D vision Introduction, 3d representation방식에 대한 설명 업로드 예정
+- 🔧 **14. 3D Vision Introduction**  
+  - [ ] `1_3D vision Introduction` : 3D비전 전반 개요
+
+- 🔧 **15. 3D Representation**  
+  - [ ] `1_3D representation Introducion` : 3D representations에 대한 개요 작성
+  - [ ] `2_Point Clouds`
+  - [ ] `3_Implicit Representation`
+  - [ ] `4_Multi view images to 3D`
+  - [ ] `5_Hybrid Representaions`
+  - [ ] `6_Meshes`
+  - [ ] `7_Representation Conversion`
+
+- 🔧 **16. 3D Perception**  
+
+- 🔧 **17. 3D Reconstruction**  
+
+- 🔧 **16. 3D Manipulation**  
+
+#### ✅ 완료된 항목
+
+- ✅ **06. Image Segmentation**
+  - [X] `1_Thresholding`: ~~Simple, Otsu, Adaptive Thresholding 정리 및 예제 추가 예정~~  
+  - [X] `2_KMeansClustering`: ~~색상 기반 K-Means Segmentation 구현 및 실습~~  
+  - [X] `3_MeanShiftSegmentation`: ~~Mean Shift 알고리즘 기반 세그멘테이션 정리 예정~~  
+
+- ✅ **07. Edge & Corner Detection**
+  - [X] `1_EdgeDetection`: ~~다양한 엣지 검출 알고리즘 (Canny, LoG 등) 추가 예정~~  
+  - [X] `2_CornerDetection`: ~~Harris 코너 검출 기법 구현 및 정리 예정~~  
 
 
 <br>
