@@ -23,6 +23,7 @@ Image Processing, Computer Vision, 3D Vision
 
 ### ToDo
 #### *️⃣ 완료 전 항목
+
 - 🔧 **08. Feature Descriptor**  
   - [ ] `feature descriptor`: 이론 설명
   - [ ] `1_SIFT`: 이론 설명 및 구현 예제 보완  
