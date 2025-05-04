@@ -66,7 +66,7 @@ Image Processing, Computer Vision, 3D Vision
 
 - 🔧 **17. 3D Reconstruction**  
 
-- 🔧 **16. 3D Manipulation**  
+- 🔧 **18. 3D Manipulation**  
 
 #### ✅ 완료된 항목
 
@@ -127,8 +127,11 @@ Image Processing, Computer Vision, 3D Vision
 │  ├─1_Introduction
 │  └─2_Architectures
 ├─13_Project
-└─14_3DVision
-   └─1_Introduction
+├─14_3DVisiom
+├─15_3DRepresentation
+├─16_3DPerception
+├─17_3DReconstruction
+└─18_3DManipulation
 ```
 <br>
 ## 🧰 Useful Resources
