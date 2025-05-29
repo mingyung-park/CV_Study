@@ -16,13 +16,33 @@
 
 - ```SIFT```
 
+- ```FLANN + Lowe's Ratio Test```
+
 - ```SURF```
 
 <br><br>
 ## 📌 결과 미리보기
-> ** 결과**
 
+> **Feature Descriptor - 1. SIFT Keypoint 결과**
+> 
 
+|원본1|SIFT Keypoint 추출|원본2|SIFT Keypoint 추출|
+|:--:|:--:|:--:|:--:|
+| <img src="images/peters_1.jpg" width="200"/> | <img src="images/sift_keypoint_1.png" width="200"/> | <img src="images/peters_2.jpg" width="200"/> | <img src="images/sift_keypoint_2.png" width="200"/> |
+
+> **Feature Descriptor - 2. SIFT Keypoint Matching 결과**
+> 
+
+|SIFT BruteForce KeyPoint Matching|
+|:--:|
+| <img src="images/sift_matching.png" width="800"/> |
+
+> **Feature Descriptor - 3. SIFT+FLANN+Lowe's Ratio Test 결과**
+> 
+
+|SIFT + FLANN + Lowe's Ratio Test|
+|:--:|
+| <img src="images/sift_matching_flann.png" width="800"/> |
 
 <br><br>
 ## 🔗 작성 포스팅
@@ -31,6 +51,8 @@
 - 🔍 [**Feature Descriptor가 무엇일까?**](https://he-kate1130.tistory.com/150)
 
 - 🔍 [**SIFT에 대해서 알아봅시다**](https://he-kate1130.tistory.com/151)
+
+- 🔍 [**SIFT & FLANN + LOWE'S RATIO TEST**](https://he-kate1130.tistory.com/153)
 
 <br><br>
 ## 📖 참고 자료
